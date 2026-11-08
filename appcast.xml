@@ -3,6 +3,16 @@
     <channel>
         <title>How-To</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 08 Nov 2026 11:52:12 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><li>Keep the signed application intact when Python helpers run.</li><li>Edit sources in Obsidian and see pending wiki updates.</li><li>Update affected how-to pages with Claude, retaining source history.</li><li>Check for app updates with Sparkle; installation always asks first.</li></ul>]]></description>
+            <enclosure url="https://github.com/jralden/how-to-releases/releases/download/v1.1.1/How-To-1.1.1.zip" length="1359515" type="application/octet-stream" sparkle:edSignature="bBnOlc+e3ZH3KuL8USWaZM6R7+iyiHy55/wABJgKGR9egtUxrnbiMM6krFkAHMMBnEUDONOZaKGoOyroUZ3fAw=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 08 Nov 2026 11:45:56 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
